@@ -1,0 +1,78 @@
+version: 2.11.1
+apkFileName: Orijinal_CarParking.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 25
+  targetSdkVersion: 35
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 200431
+  versionName: 4.9.6
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- png
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.android.games.engine.build_fingerprint
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/unity_app_guid
+- res/color/common_google_signin_btn_text_dark.xml
+- res/color/common_google_signin_btn_text_light.xml
+- res/color/common_google_signin_btn_tint.xml
+- res/drawable/common_google_signin_btn_icon_dark.xml
+- res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- res/drawable/common_google_signin_btn_icon_disabled.xml
+- res/drawable/common_google_signin_btn_icon_light.xml
+- res/drawable/common_google_signin_btn_icon_light_focused.xml
+- res/drawable/common_google_signin_btn_icon_light_normal.xml
+- res/drawable/common_google_signin_btn_text_dark.xml
+- res/drawable/common_google_signin_btn_text_dark_focused.xml
+- res/drawable/common_google_signin_btn_text_dark_normal.xml
+- res/drawable/common_google_signin_btn_text_disabled.xml
+- res/drawable/common_google_signin_btn_text_light.xml
+- res/drawable/common_google_signin_btn_text_light_focused.xml
+- res/drawable/common_google_signin_btn_text_light_normal.xml
+- res/drawable/notification_action_background.xml
+- res/drawable/notification_bg.xml
+- res/drawable/notification_bg_low.xml
+- res/drawable/notification_icon_background.xml
+- res/drawable/notification_tile_bg.xml
+- res/layout/custom_dialog.xml
+- res/layout/native_share_custom_dialog_holder.xml
+- res/layout/native_share_grid_element.xml
+- res/layout/native_share_grid_view.xml
+- res/layout/notification_action.xml
+- res/layout/notification_action_tombstone.xml
+- res/layout/notification_template_custom_big.xml
+- res/layout/notification_template_icon_group.xml
+- res/layout/notification_template_part_chronometer.xml
+- res/layout/notification_template_part_time.xml
+- res/mipmap-anydpi-v26/app_icon.xml
+- res/mipmap-anydpi-v26/app_icon_round.xml
+- res/raw/com_android_billingclient_heterodyne_info
+- res/raw/com_android_billingclient_registration_info.binarypb
+- res/xml/com_android_billingclient_phenotype.xml
+- res/xml/splits0.xml
